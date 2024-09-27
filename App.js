@@ -10,6 +10,7 @@ function App() {
       <ClassComponent />
       <Hello name = 'susruthi' lastname = 'kanaparthi'/>
       <Messsage />
+      <MovieList />
     </div>
   );}
 export default App;
