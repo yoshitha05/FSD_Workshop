@@ -11,6 +11,7 @@ function App() {
       <Hello name = 'susruthi' lastname = 'kanaparthi'/>
       <Messsage />
       <MovieList />
+      <MultipleList.js />
     </div>
   );}
 export default App;
